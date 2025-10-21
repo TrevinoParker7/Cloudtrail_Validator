@@ -1,4 +1,13 @@
-# 🕶️ LAB: Every Auditor's First Question – "Show Me Your Logging Infrastructure"  
+# 🕶️ LAB: Every Auditor's First Question – "Show Me Your AWS Logging Infrastructure"  
+
+<img width="1490" height="1500" alt="image" src="https://github.com/user-attachments/assets/be7cb853-8790-4de7-ab8f-49579e8173a1" />
+
+<img width="677" height="287" alt="image" src="https://github.com/user-attachments/assets/866fce53-7306-4ab5-9f51-303955447503" />
+
+<img width="397" height="800" alt="image" src="https://github.com/user-attachments/assets/19e99360-158c-45b3-ba67-514cfc7021c0" />
+
+<img width="882" height="775" alt="image" src="https://github.com/user-attachments/assets/bbf1bd92-f29c-485a-87ac-66d90a18f639" />
+
 *Welcome to the Compliance Matrix, where CloudTrail logs are your red pills and spreadsheets are your blue pills.*
 
 ---
